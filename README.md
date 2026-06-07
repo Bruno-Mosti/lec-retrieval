@@ -75,7 +75,7 @@ Recall@5 and MRR were identical across three full runs; p95 latency varied by ~1
 | Dense | 0.80 | 0.6417 | 4.64 |
 | Hybrid_RRF | **0.85** | **0.7142** | **6.12** |
 
-Hybrid_RRF leads on both quality metrics — +0.15 Recall@5 over BM25 and +0.05 over Dense, with MRR improving at each step. BM25 is the fastest at 1.21ms but the quality gap is significant. All three configs remain well under the 1000ms p95 constraint, making latency a non-issue for the winner decision.
+Hybrid_RRF leads on both quality metrics — +0.15 Recall@5 over BM25 and +0.05 over Dense, with MRR improving at each step. BM25 is the fastest at 1.12ms but the quality gap is significant. All three configs remain well under the 1000ms p95 constraint, making latency a non-issue for the winner decision.
 
 ---
 
@@ -100,7 +100,7 @@ With more time I would start by implementing full-text ingest so the complete do
 ## 9. Reproduce
 
 ```bash
-git clone https://github.com/brunomosti/lec-retrieval.git
+git clone https://github.com/Bruno-Mosti/lec-retrieval.git
 cd lec-retrieval
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
