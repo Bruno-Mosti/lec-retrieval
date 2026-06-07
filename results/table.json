@@ -1,0 +1,20 @@
+[
+  {
+    "config": "BM25",
+    "recall_at_5": 0.7,
+    "mrr": 0.5142,
+    "p95_latency_ms": 1.12
+  },
+  {
+    "config": "Dense",
+    "recall_at_5": 0.8,
+    "mrr": 0.6417,
+    "p95_latency_ms": 4.64
+  },
+  {
+    "config": "Hybrid_RRF",
+    "recall_at_5": 0.85,
+    "mrr": 0.7142,
+    "p95_latency_ms": 6.12
+  }
+]

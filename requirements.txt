@@ -1,0 +1,7 @@
+# Grader: pip install -r requirements.txt && make run
+numpy>=1.24.0
+rank-bm25>=0.2.2
+torch>=2.0.0
+sentence-transformers>=2.2.0
+
+# Optional export_corpus.py only (needs local Neo4j): neo4j

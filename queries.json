@@ -1,0 +1,142 @@
+[
+  {
+    "id": "Q01",
+    "query": "I need a clear plan for building a retrieval system and I need to know its configuration.",
+    "relevant_filenames": ["assignment1_retrieval_plan.md"],
+    "category": "factual",
+    "hard": false
+  },
+  {
+    "id": "Q02",
+    "query": "How do I learn the fundamentals of maths for computer science and how many credits is the module worth?",
+    "relevant_filenames": ["MATH1179-module-handbook-2025-2026.pdf"],
+    "category": "coursework",
+    "hard": false
+  },
+  {
+    "id": "Q03",
+    "query": "How I taught myself AI and what started my passion for tech.",
+    "relevant_filenames": ["Bruno_Mosti_CV_v3.pdf"],
+    "category": "paraphrase",
+    "hard": true
+  },
+  {
+    "id": "Q04",
+    "query": "COMP1765 lecture where a laptop on campus gets an IP and eventually loads google.com step by step.",
+    "relevant_filenames": ["LAN_Lecture_Part4_1.pdf"],
+    "category": "coursework",
+    "hard": false
+  },
+  {
+    "id": "Q05",
+    "query": "I need you to find the month we started producing a plan for the knowledge graph, I remember it was around  early of 2026 and we used some architecture implementation from Claude",
+    "relevant_filenames": ["PSB_KnowledgeGraph.docx"],
+    "category": "temporal",
+    "hard": true
+  },
+  {
+    "id": "Q06",
+    "query": "2-page research task on computer networking submitted for COMP1765",
+    "relevant_filenames": ["COMP_1765_-_Research_Task.docx"],
+    "category": "coursework",
+    "hard": false
+  },
+  {
+    "id": "Q07",
+    "query": "can you repropose the same format you made for me during my final revision strategy with that emphasizing structured study?",
+    "relevant_filenames": ["Im_entering_my_final_revision.txt"],
+    "category": "factual",
+    "hard": false
+  },
+  {
+    "id": "Q08",
+    "query": "Which doc used to talk about some security and UI improvement I totally forgot?",
+    "relevant_filenames": ["PSB_Phase8_Gemini.docx"],
+    "category": "implicit",
+    "hard": true
+  },
+  {
+    "id": "Q09",
+    "query": "I forgot one of the html mods we wrote up there were four of them and I only remember the first one clearly.",
+    "relevant_filenames": ["PATCH_INSTRUCTIONS.txt"],
+    "category": "implicit",
+    "hard": true
+  },
+  {
+    "id": "Q10",
+    "query": "I need you to find when I was about to get scammed by that big corporation.",
+    "relevant_filenames": ["psb_server_interface_chat-2026-05-11-23-23-26.md"],
+    "category": "implicit",
+    "hard": true
+  },
+  {
+    "id": "Q11",
+    "query": "PSB full architecture and stack overview week by week learning guide",
+    "relevant_filenames": ["PSB_Master_Learning_Document.md"],
+    "category": "factual",
+    "hard": false
+  },
+  {
+    "id": "Q12",
+    "query": "Software engineering tutorial where we draw an ERD for CIS online tests with password and question pools.",
+    "relevant_filenames": ["Werek_4_Tutorial_F-NF_Requirments_-ERD.pdf"],
+    "category": "coursework",
+    "hard": false
+  },
+  {
+    "id": "Q13",
+    "query": "Can you explain how that electrical circuit models I think we did also introduce a battery I don't remember the document very well but I remember the concept that can be a representation of a communication in a healthcare facility?",
+    "relevant_filenames": ["explanation.docx"],
+    "category": "coursework",
+    "hard": false
+  },
+  {
+    "id": "Q14",
+    "query": "Can you make an introduction to algorithms and data structures?",
+    "relevant_filenames": ["Introduction_to_Algorithms_and_Data_Structures.docx"],
+    "category": "coursework",
+    "hard": false
+  },
+  {
+    "id": "Q15",
+    "query": "I need to know if it is possible for me to make a smart malware detection.",
+    "relevant_filenames": ["Feasibility_Report.pdf"],
+    "category": "factual",
+    "hard": false
+  },
+  {
+    "id": "Q16",
+    "query": "Can you provide me the result or solution for solving this logic 1 exercise?",
+    "relevant_filenames": ["Solutions_logic1.pdf"],
+    "category": "coursework",
+    "hard": false
+  },
+  {
+    "id": "Q17",
+    "query": "What is a set, what is the Universe and correct meaning? Tell me more about  set membership?",
+    "relevant_filenames": ["Lecture_1_Sets.pdf"],
+    "category": "coursework",
+    "hard": false
+  },
+  {
+    "id": "Q18",
+    "query": "What are my system specs, stack, or color coding? Also I need to know my pc hardware.",
+    "relevant_filenames": ["PSB_Phase9E_Handoff.md"],
+    "category": "factual",
+    "hard": false
+  },
+  {
+    "id": "Q19",
+    "query": "I need the solution for linear equation.",
+    "relevant_filenames": ["MATH1179_Solutions_algebra_2526.pdf"],
+    "category": "coursework",
+    "hard": false
+  },
+  {
+    "id": "Q20",
+    "query": "Can you name the Linux file system structure, absolute paths and sudo permissions? I need you to explain why and how they work.",
+    "relevant_filenames": ["psb_server_interface_chat-2026-05-15-14-02-18.md"],
+    "category": "factual",
+    "hard": false
+  }
+]
